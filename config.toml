@@ -1,0 +1,197 @@
+baseURL = "https://arch3dprint.com/"
+languageCode = "en-us"
+title = "Arch 3D Print"
+theme = "printwire"
+
+[params]
+tagline       = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
+description   = "Arch 3D Print is the resource for architectural additive manufacturing — from detailed scale models to full-scale structural concrete printing and facade element production."
+keywords      = "architecture 3D printing, architectural models, concrete printing, facade elements, building AM, large format 3D print"
+logoEmoji     = "🏛️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#e8724a"
+colorPrimaryDark  = "#c85e3a"
+colorPrimaryLight = "#f08a65"
+colorBgDark       = "#0d0c0b"
+colorBgSection    = "#111110"
+colorBgCard       = "#181614"
+colorBgCardHover  = "#201e1b"
+colorBorder       = "rgba(232,114,74,0.22)"
+colorBorderLight  = "rgba(232,114,74,0.10)"
+
+fontPrimary   = "Archivo+Black"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80",
+  "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80",
+]
+
+heroEyebrow  = "Architectural AM"
+heroTitle    = "Arch <em>3D Print</em>"
+heroSubtitle = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+overviewLabel   = "Architecture AM"
+overviewTitle   = "Building at Every Scale"
+overviewText    = "From 1:500 concept models to 1:1 structural walls — additive manufacturing serves every stage of the architectural design and construction workflow."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "Arch 3D Print Services"
+servicesSubtitle = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 10
+suffix = "m"
+label  = "Max Print Dimension"
+
+[[params.stats]]
+count  = 40
+suffix = "%"
+label  = "Material Saving vs Formwork"
+
+[[params.stats]]
+count  = 5
+suffix = "B+"
+label  = "Construction AM Market"
+
+[[params.stats]]
+count  = 60
+suffix = "%"
+label  = "Faster than Cast Concrete"
+
+
+[[params.applications]]
+title       = "Scale Models"
+description = "Detailed architectural scale models for client presentations, planning applications, and competitions."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Structural Components"
+description = "Load-bearing concrete elements, columns, and wall sections printed on-site or off-site."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Facade & Cladding"
+description = "Bespoke facade panels, cladding elements, and decorative architectural features."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+[[params.applications]]
+title       = "Interior Architectural Features"
+description = "Custom joinery, reception desks, staircases, and feature walls in concrete and composite."
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🏛️"
+title       = "Architectural Scale Models"
+description = "High-detail 1:50 to 1:500 architectural models in resin, PLA, or gypsum for presentations and planning."
+
+[[params.servicesPreview]]
+icon        = "🏗️"
+title       = "Structural Concrete Printing"
+description = "D-shape and extrusion concrete printing for structural walls, columns, and load-bearing elements."
+
+[[params.servicesPreview]]
+icon        = "⬡"
+title       = "Facade Element Production"
+description = "Bespoke facade panels in GFRC, polymer concrete, or ceramic — complex geometry at reduced cost."
+
+[[params.servicesPreview]]
+icon        = "✨"
+title       = "Interior Feature Design"
+description = "Custom interior elements — reception counters, staircases, and feature walls — designed and printed to spec."
+
+
+[[params.services]]
+name        = "Architectural Scale Models"
+description = "High-detail 1:50 to 1:500 architectural models in resin, PLA, or gypsum for presentations and planning."
+icon        = "🏛️"
+image       = "https://images.unsplash.com/photo-1582407947304-fd86f28320be?w=800&q=80"
+
+[[params.services]]
+name        = "Structural Concrete Printing"
+description = "D-shape and extrusion concrete printing for structural walls, columns, and load-bearing elements."
+icon        = "🏗️"
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+
+[[params.services]]
+name        = "Facade Element Production"
+description = "Bespoke facade panels in GFRC, polymer concrete, or ceramic — complex geometry at reduced cost."
+icon        = "⬡"
+image       = "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80"
+
+[[params.services]]
+name        = "Interior Feature Design"
+description = "Custom interior elements — reception counters, staircases, and feature walls — designed and printed to spec."
+icon        = "✨"
+image       = "https://images.unsplash.com/photo-1582407947304-fd86f28320be?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM flagship"
+
+[[params.clusterLinks]]
+name        = "3dprintconcrete.com"
+url         = "https://3dprintconcrete.com"
+description = "Concrete 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintcities.com"
+url         = "https://3dprintcities.com"
+description = "Urban construction AM"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
