@@ -12,6 +12,7 @@ title = "Arch 3D Print"
 
 [params]
 siteName      = "Arch 3D Print"
+logoHtml      = 'ARCH&nbsp;<span class="ed-logo-accent">3D&nbsp;PRINT</span>'
 tagline       = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
 description   = "Arch 3D Print is the resource for architectural additive manufacturing — from detailed scale models to full-scale structural concrete printing and facade element production."
 keywords      = "architecture 3D printing, architectural models, concrete printing, facade elements, building AM, large format 3D print"
