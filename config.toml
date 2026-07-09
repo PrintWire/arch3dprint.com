@@ -11,6 +11,7 @@ title = "Arch 3D Print"
       unsafe = true
 
 [params]
+ogImage       = "/images/05_facade_gradient.png"
 siteName      = "Arch 3D Print"
 logoHtml      = 'ARCH&nbsp;<span class="ed-logo-accent">3D&nbsp;PRINT</span>'
 tagline       = "Large-format 3D printing for architectural models, structural components, and bespoke building elements."
